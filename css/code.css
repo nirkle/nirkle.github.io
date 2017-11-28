@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* unvisited link */
+a:link {
+    color: #32CCE8;
+}
+
+/* visited link */
+a:visited {
+    color: #32CCE8;
+}
+
+/* mouse over link */
+a:hover {
+    color: #2E2E2E;
+}
+
+/* selected link */
+a:active {
+    color: #2E2E2E;
+}
