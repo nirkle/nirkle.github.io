@@ -5,22 +5,22 @@
 
 /* unvisited link */
 a:link {
-    color: #2E2E2E;
+    color: #32CCE8;
 }
 
 /* visited link */
 a:visited {
-    color: #2E2E2E;
+    color: #32CCE8;
 }
 
 /* mouse over link */
 a:hover {
-    color: #32CCE8;
+    color: #2E2E2E;
 }
 
 /* selected link */
 a:active {
-    color: #32CCE8;
+    color: #2E2E2E;
 }
 
 table {
@@ -29,5 +29,5 @@ table {
 }
 
 .fa {
-  font-size: 32px;
+  font-size: 24px;
 }
