@@ -6,13 +6,13 @@
 /* unvisited link */
 a:link {
     //color: #32CCE8;
-    color: #2E2E2E;
+    color: #333333;
 }
 
 /* visited link */
 a:visited {
     //color: #32CCE8;
-    color: #2E2E2E;
+    color: #333333;
 }
 
 /* mouse over link */
