@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+/* unvisited link */
+a:link {
+    color: #2E2E2E;
+}
+
+/* visited link */
+a:visited {
+    color: #2E2E2E;
+}
+
+/* mouse over link */
+a:hover {
+    color: #32CCE8;
+}
+
+/* selected link */
+a:active {
+    color: #32CCE8;
+}
+
+table {
+  width: 350px;
+  border:none;
+}
+
+.fa {
+  font-size: 42px;
+}
