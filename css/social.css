@@ -5,22 +5,26 @@
 
 /* unvisited link */
 a:link {
-    color: #32CCE8;
+    //color: #32CCE8;
+    color: #2E2E2E;
 }
 
 /* visited link */
 a:visited {
-    color: #32CCE8;
+    //color: #32CCE8;
+    color: #2E2E2E;
 }
 
 /* mouse over link */
 a:hover {
-    color: #2E2E2E;
+    // color: #2E2E2E;
+    color: #32CCE8;
 }
 
 /* selected link */
 a:active {
-    color: #2E2E2E;
+    // color: #2E2E2E;
+    color: #32CCE8;
 }
 
 table {
